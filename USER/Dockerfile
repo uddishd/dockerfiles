@@ -1,4 +1,4 @@
 FROM almalinux:8
-RUN adduser krish
-USER krish
+#RUN adduser krish
+#USER krish
 CMD ["sleep","30"]
